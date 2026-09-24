@@ -8,5 +8,11 @@
     "id": 2,
     "name": "Rahul",
     "course": "IT"
+  },
+  {
+    "_id": "demo-1790227447667",
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "password": "$2b$10$vFdZuebWPBQHZYSmB.qFoepqZWI1HiKnrwNecNOl48V5EONyBLlkq"
   }
 ]
